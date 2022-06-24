@@ -1,0 +1,10 @@
+ls -lh
+ls -lh > output
+cat < output
+cat < output > output2
+cat output2
+ls | wc
+ls -lh | wc -l
+sleep 3 ; echo hi
+ps
+?
