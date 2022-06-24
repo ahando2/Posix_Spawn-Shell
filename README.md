@@ -1,4 +1,4 @@
-# Simple Posix_Spawn Shell
+# Simple posix_spawn Shell
 
 # How to Run
 1. open folder on terminal.
